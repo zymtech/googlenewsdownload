@@ -1,0 +1,53 @@
+{
+    "gspider_cn": [
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=tw&hl=us&q=",
+            "keywords": [
+                "中国"
+            ],
+            "urlencode": true
+        },
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=hk&hl=us&q=",
+            "keywords": [
+                "中国"
+            ],
+            "urlencode": true
+        }
+    ],
+    "gspider_fr": [
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=fr&hl=fr&q=",
+            "keywords": [
+                "chine"
+            ],
+            "urlencode": false
+        }
+    ],
+    "gspider_en": [
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=en&hl=en&q=",
+            "keywords": [
+                "china"
+            ],
+            "urlencode": false
+        }
+    ],
+    "gspider_ru": [
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=ru_ru&hl=ru&q=",
+            "keywords": [
+                "%D0%9A%D0%98%D0%A2%D0%90%D0%99"],
+            "urlencode": false
+        }
+    ],
+    "gspider_jp": [
+        {
+            "url": "https://news.google.com/news/section?cf=all&ned=jp&hl=jp&q=",
+            "keywords": [
+                "中国"
+            ],
+            "urlencode": true
+        }
+    ]
+}
